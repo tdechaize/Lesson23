@@ -2,8 +2,9 @@
 Lesson23 OpenGL (from NeHe)
 
 Vous trouverez ci-dessous les explications vous permettant de régénérer cette application illustrant un des cas d'usage d'OpenGL :
-un mapping d'environnement (en provenance du site NeHe) -> un cylindre tournant réflétant une imsage, ici un paysage;
-Le résultat est franchement bluffant !
+un mapping d'environnement (en provenance du site NeHe) -> un cylindre tournant réflétant une image, ici un paysage, tout à fait naturel.
+
+Le résultat est franchement bluffant ! Le cylindre "miroir" réflèchit son environnement à 360°.
 
 ## Table of contents
 
